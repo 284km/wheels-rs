@@ -21,6 +21,7 @@ repos named `wheels-<lang-suffix>` (e.g. `wheels-ml` for OCaml).
 |----------------|--------------------------------------------|
 | `wheels-heap`  | Binary max-heap (priority queue)           |
 | `wheels-vec`   | Dynamic array (growable vector)            |
+| `wheels-deque` | Double-ended queue (ring buffer)           |
 
 ## Layout
 
