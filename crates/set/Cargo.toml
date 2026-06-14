@@ -1,0 +1,10 @@
+[package]
+name = "wheels-set"
+description = "Hash set built on top of wheels-map — handwritten reference implementation"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+
+[dependencies]
+wheels-map = { path = "../map", version = "0.1.0" }

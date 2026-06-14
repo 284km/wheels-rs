@@ -23,6 +23,7 @@ repos named `wheels-<lang-suffix>` (e.g. `wheels-ml` for OCaml).
 | `wheels-vec`   | Dynamic array (growable vector)            |
 | `wheels-deque` | Double-ended queue (ring buffer)           |
 | `wheels-map`   | Hash map (open addressing, linear probing) |
+| `wheels-set`   | Hash set (thin wrapper over `wheels-map`)  |
 
 ## Layout
 

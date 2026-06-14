@@ -15,5 +15,12 @@ name = "wheels-map"
 version = "0.1.0"
 
 [[package]]
+name = "wheels-set"
+version = "0.1.0"
+dependencies = [
+ "wheels-map",
+]
+
+[[package]]
 name = "wheels-vec"
 version = "0.1.0"

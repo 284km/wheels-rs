@@ -5,6 +5,7 @@ members = [
     "crates/vec",
     "crates/deque",
     "crates/map",
+    "crates/set",
 ]
 
 [workspace.package]
