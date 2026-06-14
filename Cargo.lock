@@ -11,5 +11,9 @@ name = "wheels-heap"
 version = "0.1.0"
 
 [[package]]
+name = "wheels-map"
+version = "0.1.0"
+
+[[package]]
 name = "wheels-vec"
 version = "0.1.0"
